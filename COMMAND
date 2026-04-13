@@ -1,0 +1,6 @@
+php artisan make:model Customer -mcr
+php artisan make:model Service -mcr
+php artisan make:model Transaction -mcr
+php artisan make:model TransactionDetail -mcr
+php artisan make:model Payment -mcr
+php artisan make:model Expense -mcr
